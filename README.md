@@ -16,6 +16,20 @@
 - 😊 Siempre con buena onda!
 - 💪 Vamos con todo!
 
+<h3> Mis amores</h3>
+
+<p>
+<img src="https://raw.githubusercontent.com/oscarvalenzuela25/oscarvalenzuela25/main/html.gif" width="40px">
+<img src="https://raw.githubusercontent.com/oscarvalenzuela25/oscarvalenzuela25/main/css.gif" width="40px">
+<img src="https://raw.githubusercontent.com/oscarvalenzuela25/oscarvalenzuela25/main/js_gif.webp" width="40px">
+<img src="https://raw.githubusercontent.com/oscarvalenzuela25/oscarvalenzuela25/main/react_gif.webp" width="40px">
+<img src="https://raw.githubusercontent.com/oscarvalenzuela25/oscarvalenzuela25/main/git.gif" width="80px">
+<img src="https://raw.githubusercontent.com/oscarvalenzuela25/oscarvalenzuela25/main/git.webp" width="40px">
+<img src="https://raw.githubusercontent.com/oscarvalenzuela25/oscarvalenzuela25/main/studioCode_gif.webp" width="40px">
+  
+</p>
+
+
 <h3> Contacto </h3>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/oscarvalenzuela25)
