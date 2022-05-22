@@ -1,16 +1,9 @@
 <h1>Hola, bienvenido a mi Repo! <img src="https://raw.githubusercontent.com/oscarvalenzuela25/oscarvalenzuela25/main/hi.gif" width="40px"></h1>
 
-<p>
-  <img align="center" src="https://raw.githubusercontent.com/oscarvalenzuela25/oscarvalenzuela25/main/Logo.png">
-<p>
-
-<hr>
 
 <h3>Sobre Mi! ✌</h3>
 
-<img src="https://raw.githubusercontent.com/oscarvalenzuela25/oscarvalenzuela25/main/squartle_kamina.gif" width="45%" align="right" alt="squirtle kamina">  
-
-- 📘 Ingeniero Informatico en la Universidad Tecnologica INACAP.
+- 📘 Ingeniero Informatico de la Universidad Tecnologica INACAP.
 - 💖 Amo estar aprendiendo cosas nuevas!
 - 👾 Jugando uno que otro jueguito 👀.
 - 😊 Siempre con buena onda!
