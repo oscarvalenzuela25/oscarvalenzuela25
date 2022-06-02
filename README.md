@@ -1,4 +1,4 @@
-<h1>Hola, bienvenido a mi Repo! <img src="https://raw.githubusercontent.com/oscarvalenzuela25/oscarvalenzuela25/main/hi.gif" width="40px"></h1>
+<h1>Hola, bienvenido a mi Repo! <img src="https://raw.githubusercontent.com/oscarvalenzuela25/oscarvalenzuela25/main/hi.gif" width="40"></h1>
 
 
 <h3>Sobre Mi! ✌</h3>
@@ -9,17 +9,16 @@
 - 😊 Siempre con buena onda!
 - 💪 Vamos con todo!
 
-<h3> Mis amores</h3>
+<h3> Mis amores (faltan artos, no encontre los gif ✌😁)</h3>
 
 <p>
-<img src="https://raw.githubusercontent.com/oscarvalenzuela25/oscarvalenzuela25/main/html.gif" width="40px">
-<img src="https://raw.githubusercontent.com/oscarvalenzuela25/oscarvalenzuela25/main/css.gif" width="40px">
-<img src="https://raw.githubusercontent.com/oscarvalenzuela25/oscarvalenzuela25/main/js_gif.webp" width="40px">
-<img src="https://raw.githubusercontent.com/oscarvalenzuela25/oscarvalenzuela25/main/react_gif.webp" width="40px">
-<img src="https://raw.githubusercontent.com/oscarvalenzuela25/oscarvalenzuela25/main/git.gif" width="80px">
-<img src="https://raw.githubusercontent.com/oscarvalenzuela25/oscarvalenzuela25/main/git.webp" width="40px">
-<img src="https://raw.githubusercontent.com/oscarvalenzuela25/oscarvalenzuela25/main/studioCode_gif.webp" width="40px">
-  
+<img src="https://raw.githubusercontent.com/oscarvalenzuela25/oscarvalenzuela25/main/html.gif" width="40">
+<img src="https://raw.githubusercontent.com/oscarvalenzuela25/oscarvalenzuela25/main/css.gif" width="40">
+<img src="https://raw.githubusercontent.com/oscarvalenzuela25/oscarvalenzuela25/main/js_gif.webp" width="40">
+<img src="https://raw.githubusercontent.com/oscarvalenzuela25/oscarvalenzuela25/main/react_gif.webp" width="40">
+<img src="https://raw.githubusercontent.com/oscarvalenzuela25/oscarvalenzuela25/main/git.gif" width="80">
+<img src="https://raw.githubusercontent.com/oscarvalenzuela25/oscarvalenzuela25/main/git.webp" width="40">
+<img src="https://raw.githubusercontent.com/oscarvalenzuela25/oscarvalenzuela25/main/studioCode_gif.webp" width="40">
 </p>
 
 
