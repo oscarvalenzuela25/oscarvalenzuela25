@@ -4,7 +4,7 @@
 <h3>Sobre Mi! ✌</h3>
 
 - 📘 Ingeniero Informatico de la Universidad Tecnologica INACAP.
-- 💖 Amo estar aprendiendo cosas nuevas!
+- 💖 Un gusto aprender cosas nuevas!
 - 👾 Jugando uno que otro jueguito 👀.
 - 😊 Siempre con buena onda!
 - 💪 Vamos con todo!
